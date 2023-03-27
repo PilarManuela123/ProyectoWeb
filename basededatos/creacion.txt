@@ -1,0 +1,18 @@
+CREATE database proyecto;
+use proyecto;
+
+CREATE TABLE `pacientes` (
+`id` INT NOT NULL AUTO_INCREMENT PRIMARY KEY ,
+`nombre` VARCHAR( 100 ) NOT NULL ,
+`apellido` VARCHAR( 100 ) NOT NULL ,
+`correo` VARCHAR( 100 ) NOT NULL,
+`suscrito` VARCHAR( 100 ) NOT NULL
+) ENGINE = INNODB;
+
+//Ejemplo
+
+INSERT INTO `pacientes`(nombre,apellido,correo,suscrito)
+values
+('Katiuska', 'Puerta', 'kp@FalsoCorreo.com','si');
+
+ $sql = "INSERT INTO customers (name,email,mobile) values(?, ?, ?)";
