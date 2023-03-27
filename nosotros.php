@@ -64,30 +64,36 @@
           <div class="col-12 col-md-9">
 
             <div class="row mt-4">
-              <div class="col-6 col-lg-4">
+              <div class="col-12 col-sm-4">
                 <h2>Nuestro equipo</h2>
                 <p>Profesionales Colombianos con deseos de ayudar y apoyar a la población general en cuanto a salud mental, desarrollo humano, y progreso personal. </p>
                 <p><a class="btn btn-secondary" href="#"  role="button">Ver &raquo;</a></p>
               </div>
-              <div class="col-6 col-lg-4">
+              <div class="col-12 col-sm-4">
                 <h2>Misión</h2>
                 <p>Aplicar nuestros conocimientos y experiencias para ofrecer apoyo emocional y psicológico a nuestros pacientes. </p>
                 <p><a class="btn btn-secondary" href="#"  role="button">Ver &raquo;</a></p>
               </div>
-              <div class="col-6 col-lg-4">
+              <div class="col-12 col-sm-4">
                 <h2>Visión</h2>
                 <p>Ser la referencia nacional de oferta de salud mental para Colombia. Proveer servicios de calidad y a bajo costo para cualquier persona.</p> </p>
                 <p><a class="btn btn-secondary" href="#" role="button">Ver &raquo;</a></p>
               </div>
 
             </div>
-            <h2>¿Cómo funciona la terapia en línea?</h2>
-            <div class="embed-responsive embed-responsive-16by9">
-              <iframe width="560" height="315" src="https://www.youtube.com/embed/jQLx6-gSp2w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-            </div>
 
-            <div class="sidebar-offcanvas" id="sidebar">
-            <h2>Enlaces de Ayuda</h2>
+            <div class="row">
+              <div class="col">
+                <h2>¿Cómo funciona la terapia en línea?</h2>
+                <div class="embed-responsive embed-responsive-16by9">
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/jQLx6-gSp2w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-12 col-md-3">
+            <h4>Enlaces de Ayuda</h4>
             <div class="list-group">
               <a href="#" target="_blank" class="list-group-item">Ejemplo 1 </a>
               <a href="#" target="_blank" class="list-group-item">Ejemplo 2</a>
@@ -102,12 +108,10 @@
               <a href="#" target="_blank" class="list-group-item">Ejemplos</a>
             </div>
           </div>
+        </div>
 
-<br>
-<br>
-<br>
-<br>
-            <h2>¿Deseas intentar Terapia en línea?</h2>
+        <h2>¿Deseas intentar Terapia en línea?</h2>
+            <br>
             <h4>Ingresa la información en el formulario:</h4>
             <br>
 <br>
